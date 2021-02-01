@@ -132,7 +132,7 @@ Please include event details such as:
 
 If you would like to contact the Community Advisory Board please email:  cab at bioconductor.org
 
-![Community Advisory Board](/assets/images/cab/cab.png)
+![Community Advisory Board](/images/cab/cab.png)
 
 
 
